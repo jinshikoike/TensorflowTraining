@@ -5,4 +5,5 @@
 
 *.retry
 .vagrant/
+MNIST_data/
 
